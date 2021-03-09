@@ -5,6 +5,8 @@
 + [dai's 文章索引](https://www.jianshu.com/p/3110212bde90)
 + [github](https://biuos.github.io/)
 
+# + 问题
++ [x] [音视频](QA/AV_question.md)
 
 # + 音视频
 
