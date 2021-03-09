@@ -15,12 +15,12 @@
 + [日月当头](https://www.jianshu.com/u/1bda0082f088)
 + [JG2014](https://www.cnblogs.com/yjg2014/)
 
-| 说明               | 地址                                                                            | 感谢       |  |
-|:-------------------|:--------------------------------------------------------------------------------|:-----------|:-|
-| H264码流结构       | [Android音视频【二】 H264码流结构](https://www.jianshu.com/p/1e48b8695a92)      | 后厂村追寻 |  |
-| H265/HEVC&码流结构 | [Android音视频【五】H265/HEVC&码流结构](https://www.jianshu.com/p/85ef926e8a00) | 后厂村追寻 |  |
-| H264(NAL简介与I帧判断) | [H264(NAL简介与I帧判断)](https://www.cnblogs.com/yjg2014/p/6144977.html) |JG2014 | |
-| RTMP 协议          | [带你吃透RTMP](https://www.jianshu.com/p/b2144f9bbe28)                          | 日月当头   |  |
+| 说明                   | 地址                                                                            | 感谢       |  |
+|:-----------------------|:--------------------------------------------------------------------------------|:-----------|:-|
+| H264码流结构           | [Android音视频【二】 H264码流结构](https://www.jianshu.com/p/1e48b8695a92)      | 后厂村追寻 |  |
+| H265/HEVC&码流结构     | [Android音视频【五】H265/HEVC&码流结构](https://www.jianshu.com/p/85ef926e8a00) | 后厂村追寻 |  |
+| H264(NAL简介与I帧判断) | [H264(NAL简介与I帧判断)](https://www.cnblogs.com/yjg2014/p/6144977.html)        | JG2014     |  |
+| RTMP 协议              | [带你吃透RTMP](https://www.jianshu.com/p/b2144f9bbe28)                          | 日月当头   |  |
 
 ## Android 相机功能使用
 
