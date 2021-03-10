@@ -3,10 +3,10 @@
 
 防丢地址: 
 + [dai's 文章索引](https://www.jianshu.com/p/3110212bde90)
-+ [github](https://biuos.github.io/)
++ [优先访问 biuos.github.io 最先更新](https://biuos.github.io/)
 
 # + 问题
-+ [x] [音视频](QA/AV_question.md)
++ [x] [音视频](https://biuos.github.io/QA/AV_question.html)
 
 # + 音视频
 
@@ -16,13 +16,22 @@
 + [后厂村追寻](https://www.jianshu.com/u/cf650eef973a)
 + [日月当头](https://www.jianshu.com/u/1bda0082f088)
 + [JG2014](https://www.cnblogs.com/yjg2014/)
++ [cain_huang](https://www.jianshu.com/u/fd6f2b25d0f4)
 
-| 说明                   | 地址                                                                            | 感谢       |  |
-|:-----------------------|:--------------------------------------------------------------------------------|:-----------|:-|
-| H264码流结构           | [Android音视频【二】 H264码流结构](https://www.jianshu.com/p/1e48b8695a92)      | 后厂村追寻 |  |
-| H265/HEVC&码流结构     | [Android音视频【五】H265/HEVC&码流结构](https://www.jianshu.com/p/85ef926e8a00) | 后厂村追寻 |  |
-| H264(NAL简介与I帧判断) | [H264(NAL简介与I帧判断)](https://www.cnblogs.com/yjg2014/p/6144977.html)        | JG2014     |  |
-| RTMP 协议              | [带你吃透RTMP](https://www.jianshu.com/p/b2144f9bbe28)                          | 日月当头   |  |
+| 说明                      | 地址                                                                                                      | 感谢       |  |
+|:--------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:-|
+| H264码流结构              | [Android音视频【二】 H264码流结构](https://www.jianshu.com/p/1e48b8695a92)                                | 后厂村追寻 |  |
+| H265/HEVC&码流结构        | [Android音视频【五】H265/HEVC&码流结构](https://www.jianshu.com/p/85ef926e8a00)                           | 后厂村追寻 |  |
+| H264(NAL简介与I帧判断)    | [H264(NAL简介与I帧判断)](https://www.cnblogs.com/yjg2014/p/6144977.html)                                  | JG2014     |  |
+| RTMP 协议                 | [带你吃透RTMP](https://www.jianshu.com/p/b2144f9bbe28)                                                    | 日月当头   |  |
+|                           |                                                                                                           |            |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 目录](https://www.jianshu.com/p/27c7b30a3ab8)                              | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第零章 基础公共类的封装](https://www.jianshu.com/p/9003caa6683f)           | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第一章 播放器初始化与解复用流程](https://www.jianshu.com/p/95dc19217847)   | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第二章 音视解码器和视频解码器实现](https://www.jianshu.com/p/8de0fc796ef9) | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第三章 音频输出 —— OpenSLES](https://www.jianshu.com/p/9b41212c71a5)       | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第四章 音频重采样与变速变调处理](https://www.jianshu.com/p/4af5d16ac017)   | cain_huang |  |
+| android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第五章 视频同步渲染输出](https://www.jianshu.com/p/f8ba3ceac687)           | cain_huang |  |
 
 ## Android 相机功能使用
 
@@ -44,7 +53,7 @@
 | 说明                          | 地址                                                                       | 感谢 |  |
 |:------------------------------|:---------------------------------------------------------------------------|:-----|:-|
 | cpp-concurrency-in-action-2ed | [中文翻译版本](https://downdemo.gitbook.io/cpp-concurrency-in-action-2ed/) |      |  |
-|                               |                                                                            |      |  |
+| C++ 2.0                       | [C++2.0相关特性](https://biuos.github.io/language/c_c++/c++2.0.html)       |      |  |
 
 
 # + 开源代码地址汇总
@@ -62,6 +71,7 @@
 | 说明        | 地址                                      |  |
 |:------------|:------------------------------------------|:-|
 | demo KuLive | [KuLive](https://github.com/biuos/KuLive) |  |
+
 
 # + 名人专题主页
 
