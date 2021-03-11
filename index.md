@@ -33,6 +33,11 @@
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第四章 音频重采样与变速变调处理](https://www.jianshu.com/p/4af5d16ac017)   | cain_huang |  |
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第五章 视频同步渲染输出](https://www.jianshu.com/p/f8ba3ceac687)           | cain_huang |  |
 
+
+## 开源软件
+
++ [音视频开源软件](https://biuos.github.io/av/av_open_source.html)
+
 ## Android 相机功能使用
 
 ### Android Camera2 
@@ -62,9 +67,11 @@
 
 ### 插件类
 
-| 作者   | 说明          | 地址                                                           |  |
-|:-------|:--------------|:---------------------------------------------------------------|:-|
-| 大鸡排 | hook activity | [github](https://github.com/BolexLiu/AndroidHookStartActivity) |  |
+| 作者        | 说明           | 地址                                                           |  |
+|:------------|:---------------|:---------------------------------------------------------------|:-|
+| 大鸡排      | hook activity  | [github](https://github.com/BolexLiu/AndroidHookStartActivity) |  |
+| waywardgeek | sonic 倍速播放 | [github](https://github.com/waywardgeek/sonic)                 |  |
+| waywardgeek | sonic NDK      | [github](https://github.com/waywardgeek/sonic-ndk)             |  |
 
 ### dai's 常用
 
