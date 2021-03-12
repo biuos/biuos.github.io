@@ -75,9 +75,10 @@
 
 ### dai's 常用
 
-| 说明        | 地址                                      |  |
-|:------------|:------------------------------------------|:-|
-| demo KuLive | [KuLive](https://github.com/biuos/KuLive) |  |
+| 说明         | 地址                                         |  |
+|:-------------|:---------------------------------------------|:-|
+| demo KuLive  | [KuLive](https://github.com/biuos/KuLive)    |  |
+| demo example | [examples](https://gitee.com/aidem/examples) |  |
 
 
 # + 名人专题主页
