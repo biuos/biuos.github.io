@@ -17,6 +17,7 @@
 + [日月当头](https://www.jianshu.com/u/1bda0082f088)
 + [JG2014](https://www.cnblogs.com/yjg2014/)
 + [cain_huang](https://www.jianshu.com/u/fd6f2b25d0f4)
++ [DoubleLi](https://www.cnblogs.com/lidabo/)
 
 | 说明                      | 地址                                                                                                      | 感谢       |  |
 |:--------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:-|
@@ -24,6 +25,7 @@
 | H265/HEVC&码流结构        | [Android音视频【五】H265/HEVC&码流结构](https://www.jianshu.com/p/85ef926e8a00)                           | 后厂村追寻 |  |
 | H264(NAL简介与I帧判断)    | [H264(NAL简介与I帧判断)](https://www.cnblogs.com/yjg2014/p/6144977.html)                                  | JG2014     |  |
 | RTMP 协议                 | [带你吃透RTMP](https://www.jianshu.com/p/b2144f9bbe28)                                                    | 日月当头   |  |
+| librtmp 推流              | [使用librtmp进行H264与AAC直播](https://www.cnblogs.com/lidabo/p/7324325.html)                             | DoubleLi   |  |
 |                           |                                                                                                           |            |  |
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 目录](https://www.jianshu.com/p/27c7b30a3ab8)                              | cain_huang |  |
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第零章 基础公共类的封装](https://www.jianshu.com/p/9003caa6683f)           | cain_huang |  |
@@ -32,6 +34,7 @@
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第三章 音频输出 —— OpenSLES](https://www.jianshu.com/p/9b41212c71a5)       | cain_huang |  |
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第四章 音频重采样与变速变调处理](https://www.jianshu.com/p/4af5d16ac017)   | cain_huang |  |
 | android ffmpeg 播放器系列 | [Android FFmpeg 播放器开发梳理 第五章 视频同步渲染输出](https://www.jianshu.com/p/f8ba3ceac687)           | cain_huang |  |
+
 
 
 ## 开源软件
