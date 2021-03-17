@@ -10,6 +10,11 @@
 
 # + 音视频
 
+## 基础原理
+
++ [说话声音是如何产生的](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247483851&idx=1&sn=864133cdc93909bb67d412f6d41fc663&chksm=9f226a5ca855e34a801ca8ab310ff824aa746ebde2a96e60cea138f41e5a8fd250089389bed9&scene=21#wechat_redirect)
++ [语音变速和变调的实现](https://ryuk17.blog.csdn.net/article/details/113957822)
+
 ## 协议格式
 
 感谢如下作者提供的技术文章: 
