@@ -42,6 +42,18 @@
 
 
 
+# FFMPG 汇总
+
+## [FFmpeg时间戳详解](https://www.cnblogs.com/leisure_chn/p/10584910.html)
+
+##
+
+##
+
+
+
+
+
 ## 开源软件
 
 + [音视频开源软件](https://biuos.github.io/av/av_open_source.html)
